@@ -46,6 +46,6 @@ interface Address{
 const MyAddress: Address= {flatnumber:22,streetname:"abdulstreet", city:"Chennai", pincode:600032}
 console.log(MyAddress);
 
-const myTask: Task ={id :1, title: "Learn TypeScript", done: false};
-console.log(myTask);
+//const myTask: Task ={id :1, title: "Learn TypeScript", done: false};
+//console.log(myTask);
 
