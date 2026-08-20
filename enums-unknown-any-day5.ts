@@ -34,3 +34,5 @@ function describe (value : string|number){
 }
 describe("Ganesh");
 describe(9.9900);
+console.log((9.99).toFixed()); 
+console.log((9.99).toFixed(4));
